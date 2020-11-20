@@ -18,6 +18,9 @@ public class Test03 {
         System.out.println("a>b:"+(a>b));
         System.out.println("a<b:"+(a<b));
         System.out.println("a++="+(a++));
+        System.out.println("a--="+(a--));
+        System.out.println("++a="+(++a));
+        System.out.println("--a="+(--a));
         System.out.println("a>b && a>0 :"+ (a>b && a>0));
         System.out.println("a>b && a>0 :"+ (a>b && a<0));
         System.out.println("a<b && a<0 :"+ (a<b && a<0));
@@ -39,6 +42,7 @@ public class Test03 {
         else
             System.out.println("D");
         //--------------switch语句---------------
+        System.out.println("==========switch语句===========");
         //switch判断变量的值
         //byte-short-int-char-string
         String str = "天";
@@ -51,8 +55,37 @@ public class Test03 {
             break;
             default:
                 System.out.println("----------str is error---------");
-                throw new IllegalStateException("Unexpected value: " + str);
+                //throw new IllegalStateException("Unexpected value: " + str);
         }
+        System.out.println("========没有break的switch语句===================");
+        int month = 4;
+        String season;
+        switch (month) {
+            case 12:
+            case 1:
+            case 2:
+                season = "Winter";
+                break;
+            case 3:
+            case 4:
+            case 5:
+                season = "Spring";
+                break;
+            case 6:
+            case 7:
+            case 8:
+                season = "Summer";
+                break;
+            case 9:
+            case 10:
+            case 11:
+                season = "Autumn";
+                break;
+            default:
+                season = "Bogus Month";
+        }
+        System.out.println("April is in the " + season + ".");
+    }
 
     }
-}
+

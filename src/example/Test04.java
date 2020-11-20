@@ -19,5 +19,20 @@ public class Test04 {
             sum=sum+t;
         }
         System.out.printf("sum=%d%n", sum);
+        //for 循环一些变化
+        //int i, j;
+        /*for(i=0; i<10; i++) {
+           for(j=i; j<10; j++)
+                System.out.print(".");
+            System.out.println();
+          }*/
+        int i;
+        boolean done = false;
+        i = 0;
+        for( ; !done; ) {
+            System.out.println("i is " + i);
+            if(i == 10) done = true;
+            i++;
+        }
     }
 }
