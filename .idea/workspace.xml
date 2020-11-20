@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae2b01a-4751-4003-8711-8cbd9d7c89c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/example/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/TestDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/TiaoZhuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/BoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/example/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/example/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/example/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/example/Test03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/example/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/example/Test04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leiexample/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leiexample/Box.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,8 +122,16 @@
       <workItem from="1605511660800" duration="6667000" />
       <workItem from="1605600338332" duration="4750000" />
       <workItem from="1605668636469" duration="2952000" />
-      <workItem from="1605857602049" duration="494000" />
+      <workItem from="1605857602049" duration="644000" />
     </task>
+    <task id="LOCAL-00001" summary="添加新包和方法">
+      <created>1605858156840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605858156840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +151,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="添加新包和方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加新包和方法" />
   </component>
 </project>
