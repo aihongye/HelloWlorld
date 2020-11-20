@@ -1,5 +1,5 @@
 package leiexample;
-
+//不带主函数的类
 public class Box {
     private double str;//私有变量，不能被外部类访问。
     double width;
