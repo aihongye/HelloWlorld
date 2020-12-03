@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae2b01a-4751-4003-8711-8cbd9d7c89c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/DemoBoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/RefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/superExm/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/superExm/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsExm/superExm/DemoSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/BoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/BoxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/chongzai/Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/chongzai/Overload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/chongzai/OverloadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/chongzai/OverloadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/chuancan/CallByRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/chuancan/CallByRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/chuancan/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/chuancan/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/minglinghang/CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/minglinghang/CommandLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/recursion/RecTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/recursion/RecTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/recursion/Recursion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/recursion/Recursion2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/shuzu/Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/shuzu/Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/statictest/StaticByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/statictest/StaticByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/statictest/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/statictest/StaticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/statictest/UseStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/statictest/UseStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/stringtest/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/stringtest/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/stringtest/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/stringtest/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leiexample/stringtest/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classExm/stringtest/StringDemo3.java" afterDir="false" />
-    </list>
+    <list default="true" id="eae2b01a-4751-4003-8711-8cbd9d7c89c3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +135,7 @@
       <workItem from="1605857602049" duration="6787000" />
       <workItem from="1606114964344" duration="6617000" />
       <workItem from="1606698091095" duration="1399000" />
-      <workItem from="1606964594065" duration="3595000" />
+      <workItem from="1606964594065" duration="3637000" />
     </task>
     <task id="LOCAL-00001" summary="添加新包和方法">
       <created>1605858156840</created>
@@ -197,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606964646625</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加  重载  参数返回 传参 递归">
+      <created>1606977256426</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606977256426</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
