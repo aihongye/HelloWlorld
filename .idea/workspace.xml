@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae2b01a-4751-4003-8711-8cbd9d7c89c3" name="Default Changelist" comment="" />
+    <list default="true" id="eae2b01a-4751-4003-8711-8cbd9d7c89c3" name="Default Changelist" comment="添加继承  super使用">
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/chongzaishunxu/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/chongzaishunxu/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/chongzaishunxu/Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/gouzaoshunxu/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/gouzaoshunxu/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/gouzaoshunxu/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendsExm/gouzaoshunxu/CallingCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/BoxDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/chongzai/Overload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/chongzai/OverloadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/chuancan/CallByRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/chuancan/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/recursion/RecTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/recursion/Recursion2.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +83,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoBoxWeight">
+  <component name="RunManager" selected="Application.Override">
+    <configuration name="CallingCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extendsExm.gouzaoshunxu.CallingCons" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classExm.minglinghang.CommandLine" />
       <module name="untitled" />
@@ -88,15 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classExm.statictest.StaticByName" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classExm.statictest.UseStatic" />
+    <configuration name="Override" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extendsExm.chongzaishunxu.Override" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Override" />
+        <item itemvalue="Application.CallingCons" />
         <item itemvalue="Application.DemoBoxWeight" />
         <item itemvalue="Application.CommandLine" />
         <item itemvalue="Application.Length" />
-        <item itemvalue="Application.StaticByName" />
-        <item itemvalue="Application.UseStatic" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +152,8 @@
       <workItem from="1605857602049" duration="6787000" />
       <workItem from="1606114964344" duration="6617000" />
       <workItem from="1606698091095" duration="1399000" />
-      <workItem from="1606964594065" duration="3637000" />
+      <workItem from="1606964594065" duration="4317000" />
+      <workItem from="1606994846071" duration="2373000" />
     </task>
     <task id="LOCAL-00001" summary="添加新包和方法">
       <created>1605858156840</created>
@@ -179,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606977256426</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加继承  super使用">
+      <created>1606977303335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606977303335</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +237,7 @@
     <MESSAGE value="添加新包和方法" />
     <MESSAGE value="修改" />
     <MESSAGE value="添加  重载  参数返回 传参 递归" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加  重载  参数返回 传参 递归" />
+    <MESSAGE value="添加继承  super使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加继承  super使用" />
   </component>
 </project>
