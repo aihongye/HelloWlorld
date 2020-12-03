@@ -1,4 +1,4 @@
-package leiexample.chuancan;
+package classExm.chuancan;
 
 public class CallByRef {
     public static void main(String[] args) {

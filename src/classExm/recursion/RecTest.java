@@ -1,4 +1,4 @@
-package leiexample.recursion;
+package classExm.recursion;
 
 public class RecTest {
     int values[];

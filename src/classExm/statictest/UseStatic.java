@@ -1,4 +1,4 @@
-package leiexample.statictest;
+package classExm.statictest;
 //Java的访问指示符有public（公共的，全局的）、private（私有的，局部的）、和protected
 //（受保护的）。Java也定义了一个默认访问级别。指示符protected仅用于继承情况中。下面
 //我们描述其他两个访问指示符。

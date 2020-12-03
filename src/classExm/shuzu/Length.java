@@ -1,4 +1,4 @@
-package leiexample.shuzu;
+package classExm.shuzu;
 
 class Length {
     public static void main(String args[]) {

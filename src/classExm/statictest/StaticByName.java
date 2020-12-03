@@ -1,4 +1,4 @@
-package leiexample.statictest;
+package classExm.statictest;
 
 class StaticByName {
     public static void main(String args[]) {

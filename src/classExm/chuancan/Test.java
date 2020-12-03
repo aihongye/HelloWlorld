@@ -1,4 +1,4 @@
-package leiexample.chuancan;
+package classExm.chuancan;
 
 public class Test {
     int a,b;

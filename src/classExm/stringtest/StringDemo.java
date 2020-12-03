@@ -1,4 +1,4 @@
-package leiexample.stringtest;
+package classExm.stringtest;
 
 class StringDemo {
     public static void main(String args[]) {

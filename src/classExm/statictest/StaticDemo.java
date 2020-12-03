@@ -1,4 +1,4 @@
-package leiexample.statictest;
+package classExm.statictest;
 
 class StaticDemo {
     static int a = 42;
