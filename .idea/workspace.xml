@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae2b01a-4751-4003-8711-8cbd9d7c89c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leiexample/chongzai/Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/chongzai/OverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/chuancan/CallByRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/chuancan/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/recursion/RecTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leiexample/recursion/Recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/minglinghang/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/shuzu/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/statictest/StaticByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/statictest/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/statictest/UseStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/stringtest/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/stringtest/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leiexample/stringtest/StringDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/leiexample/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/leiexample/Box.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,23 +71,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursion2">
-    <configuration name="BoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leiexample.BoxDemo" />
+  <component name="RunManager" selected="Application.CommandLine">
+    <configuration name="CommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leiexample.minglinghang.CommandLine" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leiexample.chuancan.CallByRef" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leiexample.chongzai.Overload" />
+    <configuration name="Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leiexample.shuzu.Length" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,8 +93,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiaoZhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.TiaoZhuan" />
+    <configuration name="StaticByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leiexample.statictest.StaticByName" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leiexample.statictest.UseStatic" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandLine" />
+        <item itemvalue="Application.Length" />
+        <item itemvalue="Application.StaticByName" />
+        <item itemvalue="Application.UseStatic" />
         <item itemvalue="Application.Recursion2" />
-        <item itemvalue="Application.CallByRef" />
-        <item itemvalue="Application.Overload" />
-        <item itemvalue="Application.BoxDemo" />
-        <item itemvalue="Application.TiaoZhuan" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +137,9 @@
       <workItem from="1605511660800" duration="6667000" />
       <workItem from="1605600338332" duration="4750000" />
       <workItem from="1605668636469" duration="2952000" />
-      <workItem from="1605857602049" duration="6618000" />
+      <workItem from="1605857602049" duration="6787000" />
+      <workItem from="1606114964344" duration="6617000" />
+      <workItem from="1606698091095" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="添加新包和方法">
       <created>1605858156840</created>
@@ -158,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605858523206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加  重载  参数返回 传参 递归">
+      <created>1605867182695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605867182695</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加新包和方法" />
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="添加  重载  参数返回 传参 递归" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加  重载  参数返回 传参 递归" />
   </component>
 </project>
